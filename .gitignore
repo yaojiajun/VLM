@@ -1,0 +1,16 @@
+saved_models*/
+output_vision*/
+data_sft/
+data_rl/
+wandb/
+__pycache__/
+unsloth_compiled_cache/
+*.pyc
+*.pyo
+*.so
+*.o
+build/
+merge_model.py
+*.log
+*.zip
+*.tar.gz
